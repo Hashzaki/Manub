@@ -8,4 +8,4 @@ Just a student's little work. **Do not use it as a regular use! We are NOT respo
 
 ## MIT Licenese
 
-We are using MIT Licenese. [Check here to see MIT Licenese](Licenese).
+We are using MIT Licenese. [Check here to see MIT Licenese](https://opensource.org/licenses/mit-license.php).
