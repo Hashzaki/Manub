@@ -1,11 +1,11 @@
 # Manub 1.0
 
-**Manub** - The Worst Choice For Your Data. Text Data Manager.
+**Manub** - 最烂的选择，为你的数据。
 
-Choose Us, You will enjoy it! Manub is best choice for **your small website**, **your multi-language project website** or a **PHP Commodity database**.
+选择我们吧！您将体验到想死一般的Bug和不流畅体验！好吧不逗了，使用这个程序，您可以轻松管理您的数据。抛弃各种麻烦的数据库吧！只需要PHP环境，即可让您体验到如数据库般的体验。
 
-Just a student's little work. **Do not use it as a regular use! We are NOT responsible for any of its effects. 我们对它造成的任何影响概不负责。**
+只是一个傻逼学生的傻逼作品。**请不要将这个程序作为正式使用。当您使用本程序时，您默认同意使用本程序造成的任何问题，我们一律不承担任何责任，我们也没有责任对您的问题进行解决。**
 
 ## MIT Licenese
 
-We are using MIT Licenese. [Check here to see MIT Licenese](https://opensource.org/licenses/mit-license.php).
+另外我们的程序使用 MIT 许可证。虽然在国内这形同虚设hhh但是我们还是要列出来 [Check here to see MIT Licenese](https://opensource.org/licenses/mit-license.php).
